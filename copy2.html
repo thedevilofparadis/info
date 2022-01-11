@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Esercizio css html numero 2</title>
+    <style>
+/*css  selettore {proprietà:valore;} */
+    div {
+
+        border: 1px solid black;
+        display:inline-block;
+        height: 25px;
+        width: 25px;
+        margin: 1px;
+       
+    }
+ p {
+     text-align: center;
+     font-size: x-small;
+ }
+.red{
+
+    background-color: rgb(133, 49, 49);
+}
+
+button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.buttonBlue {background-color: #008CBA;} /* Blue */
+
+    </style>
+</head>
+<body>
+    <div id ="box1" class="red"><p>1</p></div>
+    <div><p>2</p></div>
+    <div><p>3</p></div>
+    <div><p>4</p></div>
+    <div><p>5</p></div>
+    <div><p>6</p></div>
+    <div><p>7</p></div>
+
+    <button class="buttonBlue" type="button" onclick="return CambiaTXT()">Click Me!</button>
+
+<script>
+  function CambiaTXT(){
+   document.getElementById("box1").innerHTML="ciao";
+
+  }
+
+</script>
+
+
+
+</body>
+</html>
