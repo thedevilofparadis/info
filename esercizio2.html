@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Esercizio css html numero 2</title>
+    <style>
+/*css  selettore {proprietà:valore;} */
+div {
+    background-color: rgb(231, 192, 192);
+    display:inline-block;
+        height: 50px;
+        width: 50px;
+        margin: 5px;
+        border: 5px ; 
+        color:black;   
+    } 
+p {
+     text-align: center;
+     font-size: medium;
+     color: blue;
+ }
+ body {
+  background-image: url("bgdesert.jpg");
+}
+.deez {
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 5px 10px;
+  cursor: pointer; }
+  .red {
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 5px 100px;
+  cursor: pointer; }
+    </style>
+</head>
+<body>
+<div id='1' class='oki'><p>1</p></div>
+<div id='2'><p>2</p></div>
+<div id='3'><p>3</p></div>
+<div id='4'><p>4</p></div>
+<div id='5'><p>5</p></div>
+<button class='deez' type=button onclick="return CambiaTXT()"><strong>Cliccami<br>(BOTTONE1)</strong></button>
+<button class='red' type=button onclick=return cambiaTxt()><strong>Cliccami<br>(BOTTONE2)</strong></button>
+<video></video>
+<script>
+    function CambiaTXT(){
+     document.getElementById('1').innerHTML="ciao";
+     document.getElementById('2').innerHTML="ciao";
+     document.getElementById('3').innerHTML="ciao";
+     document.getElementById('4').innerHTML="ciao";
+     document.getElementById('5').innerHTML="ciao";
+    }
+    
+    </script>
+</body>
+</html>
