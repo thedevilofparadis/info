@@ -1,12 +1,8 @@
 # info
-gioco del fire
-lancio dadi
-4 bottoni
-2 dadi
-botstrap
-numeri tra 10000 e 10100
-legge di ohm
-es 17
-fattorizzazione
-multipli di 10
-kcal counter
+https://github.com/thedevilofparadis/info/blob/main/copy2.html
+https://github.com/thedevilofparadis/info/blob/main/da%201%20a%201000
+https://github.com/thedevilofparadis/info/blob/main/dadi.html
+https://github.com/thedevilofparadis/info/blob/main/dadiparte2
+https://github.com/thedevilofparadis/info/blob/main/esercizio2.html
+https://github.com/thedevilofparadis/info/blob/main/gioco%20del%20fuoco
+https://github.com/thedevilofparadis/info/blob/main/n.primi.html
