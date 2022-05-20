@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang ="it">
+  <testa>
+    <meta set di caratteri ="UTF-8"/>
+    <meta http-equiv ="X-UA-Compatible" content ="IE=edge"/>
+    <meta name =" viewport " content ="width=device-width, initial-scale=1.0 "/>
+    <titolo> Documento </titolo>
+  </testa>
+  <corpo>
+    <h2> codice test per i giochi basasti sui tempi </h2>
+
+    <p id ="demo">
+      Questa pagina conta quanto tempo ci metti a premere il bottone
+    </p >
+    <p id ="fuori"> ........0.0 </p>
+    <button  type =" button " onclick ="count()"> Invia </button>
+    <script>
+      sia  io  =  0 ;
+      lascia  iniziare  =  Data . ora ( ) ;
+       conteggio funzioni ( ) {
+        documento.getElementById ( "out" ).internoHTML= "Fatto tra" + ( Data.ora ( ) - inizio) + "ms" ;
+      }
+    </copione>
+  </corpo>
+</html 
