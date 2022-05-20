@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+
+    <title>lavoro per marco palladino</title>
+  </head>
+  <body>
+    <nav class="navbar navbar-dark bg-dark">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="#">
+            <img src="./images/logo.jpg" alt="" width="30" height="24" class="d-inline-block align-text-top">
+            lavoro per marco palladino
+          </a>
+        </div>
+      </nav>
+      <div class="container my-5 text-center" style="max-width:580;">
+        <h1>esercizi per la programmazione inteligente</h1>
+        <p class="lead">questo sito ti aiuterà a programmare</p>
+      </div>
+      <div class="container">
+          <div class="row">
+    <div class="col">
+        <div class="card" style="width: 18rem;">
+            <img src="./images/logo css.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">esercizi sul css </h5>
+              <p class="card-text">se vi serve imparare il css siete finiti nel posto giusto.</p>
+              <a href="#" class="btn btn-primary">clicca per vedere</a>
+            </div>
+          </div> 
+    </div>
+    <div class="col">
+        <div class="card" style="width: 18rem;">
+            <img src="./images/logo java.png" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">esercizi sul java </h5>
+              <p class="card-text">se vi serve imparare il java siete finiti nel posto giusto.</p>
+              <a href="#" class="btn btn-primary">clicca per vedere</a>
+            </div>
+          </div>
+    </div>
+    <div class="col">
+        <div class="card" style="width: 18rem;">
+            <img src="./images/javascript logo.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">esercizi sul javascript </h5>
+              <p class="card-text">se vi serve imparare il javascript siete finiti nel posto giusto.</p>
+              <a href="#" class="btn btn-primary">clicca per vedere</a>
+            </div>
+          </div>
+        </div>
+          <div class="row">
+          <div class="col">
+            <div class="card" style="width: 18rem;">
+                <img src="./images/bootstrap.png" class="card-img-top" alt="...">
+                <div class="card-body">
+                  <h5 class="card-title">link al sito di bootstrap e video tutorial </h5>
+                  <p class="card-text">se vuoi imparare a utilizzare bootsrtap guarda il video e controlla il sito</p>
+                  <a href="#" class="btn btn-primary">clicca per vedere</a>
+                </div>
+              </div>
+          </div>
+          <div class="col">
+            <div class="card" style="width: 18rem;">
+                <img src="./images/sistemi logici.png" class="card-img-top" alt="...">
+                <div class="card-body">
+                  <h5 class="card-title">esercizi sui sistemi logici</h5>
+                  <p class="card-text">se vi serve imparare a svolgere i sistemi logici siete finiti nel posto giusto.</p>
+                  <a href="#" class="btn btn-primary">clicca per vedere</a>
+                </div>
+            </div> 
+          </div>
+          <div class="col">
+            <div class="card" style="width: 18rem;">
+                <img src="./images/logica.png" class="card-img-top" alt="...">
+                <div class="card-body">
+                  <h5 class="card-title">basi della logica </h5>
+                  <p class="card-text">se vi interessa la logica in iformatica all'inetrno di questo sito ci potete trovare le basi.</p>
+                  <a href="#" class="btn btn-primary">clicca per vedere</a>
+                </div>
+              </div>
+          </div>
+</div>
+  </div>
+         
+    </div>
+      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" 
+      integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" 
+      crossorigin="anonymous"></script>
+
+  </body>
+</html>
