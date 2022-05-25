@@ -1,5 +1,6 @@
 # info
 PAGES: https://thedevilofparadis.github.io/info/#
+
 https://github.com/thedevilofparadis/info/blob/main/copy2.html
 https://github.com/thedevilofparadis/info/blob/main/da%201%20a%201000
 https://github.com/thedevilofparadis/info/blob/main/dadi.html
